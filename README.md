@@ -1,4 +1,4 @@
-# Virtual Background
+# Virtual Background 1
 
 > Demo on adding virtual background to a live video stream in the browser.
 
